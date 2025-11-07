@@ -19,4 +19,7 @@ Git Structure:
 - Streamlit (folder)
 - ILIAS (folder with Deliverables for Ilias)
 
+**Note:** Some figures in this project were created using interactive Plotly visualizations.  
+These interactive plots may not display directly on GitHub but can be viewed by running the notebook locally.
+
 Submission Date: 7th of November 2025
